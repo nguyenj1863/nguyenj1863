@@ -12,18 +12,19 @@ I'm a fourth-year Computer Science student who enjoys building practical, data-d
 
 Previously, I've worked on AI-powered document workflows at **Karbon Digital** and manufacturing analytics systems at **Kal-Polymers**.
 
-## GitHub snapshot
+## GitHub activity
+
+These visualizations are generated from GitHub's API and refreshed automatically each day.
 
 <p align="center">
-  <a href="https://github.com/nguyenj1863?tab=repositories">
-    <img alt="Language percentages across public repositories" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nguyenj1863&amp;layout=compact&amp;langs_count=8&amp;theme=transparent&amp;hide_border=true" height="200" />
-  </a>
-  <a href="https://github.com/nguyenj1863">
-    <img alt="GitHub activity statistics" src="https://github-readme-stats.vercel.app/api?username=nguyenj1863&amp;show_icons=true&amp;theme=transparent&amp;hide_border=true&amp;rank_icon=github" height="200" />
-  </a>
+  <img src="./assets/languages.svg" alt="Percentages of programming languages across my public GitHub repositories" width="100%" />
 </p>
 
-<sub>Language percentages are based on the amount of code in my public, non-fork repositories. They are not a breakdown of my individual commits or contributions to other people's repositories.</sub>
+<p align="center">
+  <img src="./assets/contributions.svg" alt="My GitHub contribution calendar for the past 12 months" width="100%" />
+</p>
+
+<sub>Language percentages are based on detected code bytes across public, original repositories, not my individual commits. Contribution counts reflect activity visible through GitHub's API.</sub>
 
 ## Selected work
 
