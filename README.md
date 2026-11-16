@@ -1,16 +1,57 @@
-## Hi there 👋
+# John Nguyen
 
-<!--
-**nguyenj1863/nguyenj1863** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Computer Science @ University of Guelph · Software Engineering & Applied AI**
 
-Here are some ideas to get you started:
+I'm a fourth-year Computer Science student who enjoys building practical, data-driven software and experimenting with the ways people interact with technology. My work spans full-stack applications, AI systems, and interactive experiences.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Previously, I've worked on AI-powered document workflows at **Karbon Digital** and manufacturing analytics systems at **Kal-Polymers**.
+
+**[Portfolio](https://nguyenj1863s-projects.vercel.app/)** · **[Selected work](https://nguyenj1863s-projects.vercel.app/work)**
+
+## Selected work
+
+### [Aasha](https://devpost.com/software/aasha-ez5c4u) · GenAI Genesis 2026
+
+An SMS-first maternal health triage system designed for communities with limited internet access. Combines clinical-guideline retrieval and patient history in a RAG workflow, with a dashboard for community health workers to monitor risk and coordinate follow-up.
+
+**Stack:** Python, FastAPI, React, TypeScript, PostgreSQL, RAG, Claude  
+[Source code](https://github.com/arjunmenon17/Aasha) · [Project details](https://devpost.com/software/aasha-ez5c4u)
+
+### [Chromaticity](https://devpost.com/software/chromaticity-zh8tyc) · Winner for Game Creation, DandyHacks 2025
+
+A computer-vision fitness game that turns body movement into gameplay. Uses real-time pose estimation and a custom motion controller to create an interactive platforming experience.
+
+**Stack:** Next.js, TypeScript, TensorFlow.js (MoveNet), Phaser, Three.js  
+[Source code](https://github.com/nguyenj1863/Chromaticity) · [Project details](https://devpost.com/software/chromaticity-zh8tyc)
+
+### [FinSight](https://github.com/nguyenj1863/FinSight)
+
+An investment portfolio analytics simulator for exploring performance over time through interactive, data-driven visualizations.
+
+**Stack:** Python, React, JavaScript, SQL  
+[Source code](https://github.com/nguyenj1863/FinSight)
+
+### [GreenShift](https://devpost.com/software/greenshift-kxpn9v) · Hack the 6ix 2025
+
+A map-based tool exploring gentrification and sustainability risks across Toronto neighbourhoods, combining urban data with AI-assisted analysis.
+
+**Stack:** Python, Flask, React, Gemini  
+[Source code](https://github.com/ZainNizami/GreenShift) · [Project details](https://devpost.com/software/greenshift-kxpn9v)
+
+### [Personal Website](https://nguyenj1863s-projects.vercel.app/)
+
+A personal portfolio bringing together my projects, experience, and interests through interactive design and music-related features.
+
+**Stack:** Next.js, React, Tailwind CSS, JavaScript  
+[Live website](https://nguyenj1863s-projects.vercel.app/) · [Source code](https://github.com/nguyenj1863/john-website)
+
+## What I work with
+
+**Languages:** Python, TypeScript, JavaScript, C/C++, Java, SQL  
+**Web & backend:** React, Next.js, Flask, FastAPI, REST APIs  
+**Data & AI:** PostgreSQL, PyTorch, TensorFlow.js, RAG  
+**Tools:** Git, Docker, Linux, pytest
+
+---
+
+For more about the projects, including demos and technical breakdowns, visit my **[portfolio](https://nguyenj1863s-projects.vercel.app/work)**.
