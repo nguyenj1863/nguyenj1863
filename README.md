@@ -46,12 +46,6 @@ A real-time computer-vision fitness game where movement becomes the controller, 
 **Next.js · TypeScript · TensorFlow.js · Phaser · Three.js**  
 [Code](https://github.com/nguyenj1863/Chromaticity) · [Project details](https://devpost.com/software/chromaticity-zh8tyc)
 
-### [FinSight](https://github.com/nguyenj1863/FinSight)
-An investment portfolio analytics simulator for exploring performance through interactive visualizations.
-
-**Python · React · JavaScript · SQL**  
-[Code](https://github.com/nguyenj1863/FinSight)
-
 ### [GreenShift](https://devpost.com/software/greenshift-kxpn9v) · Hack the 6ix 2025
 An interactive map exploring sustainability and gentrification risks across Toronto neighbourhoods.
 
