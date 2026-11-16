@@ -1,15 +1,35 @@
 <h1 align="center">Hey, I'm John! 👋</h1>
 
-<p align="center"><strong>Computer Science @ University of Guelph · Software Engineering & Applied AI</strong></p>
+<p align="center">
+  <strong>Computer Science @ University of Guelph · Software Engineering & Applied AI</strong>
+</p>
 
 <p align="center">
   <a href="https://nguyenj1863s-projects.vercel.app/">🌐 Portfolio</a> ·
   <a href="https://nguyenj1863s-projects.vercel.app/work">Selected Work</a>
 </p>
 
-I'm a fourth-year Computer Science student who enjoys building things at the intersection of **software, AI, and real-world problems**. I've worked on AI-powered document workflows at **Karbon Digital** and data-driven manufacturing tools at **Kal-Polymers**.
-
-Outside of coding, you'll usually find me listening to music, sketching, or exploring a new matcha spot. 🎧
+<table>
+  <tr>
+    <td width="54%" valign="top">
+      <h3>👨‍💻 A little about me</h3>
+      <p>I'm a fourth-year Computer Science student who enjoys building things at the intersection of <strong>software, AI, and real-world problems</strong>.</p>
+      <p>I've worked on AI-powered document workflows at <strong>Karbon Digital</strong> and data-driven manufacturing tools at <strong>Kal-Polymers</strong>.</p>
+      <p>When I'm not coding, I'm probably listening to music, sketching, or exploring a new matcha spot. 🎧 🍵</p>
+      <h3>🛠️ Tech I work with</h3>
+      <p><strong>Languages:</strong> Python, TypeScript, JavaScript, C/C++, Java, SQL</p>
+      <p><strong>Web &amp; APIs:</strong> React, Next.js, Flask, FastAPI, REST APIs</p>
+      <p><strong>Data &amp; AI:</strong> PostgreSQL, PyTorch, TensorFlow.js, RAG</p>
+      <p><strong>Tools:</strong> Git, Docker, Linux, pytest</p>
+    </td>
+    <td width="46%" valign="top">
+      <img src="./assets/languages.svg" alt="Programming language percentages across my public repositories" width="100%" />
+      <br />
+      <img src="./assets/contributions.svg" alt="GitHub contribution activity over the past year" width="100%" />
+      <p><sub>Language percentages reflect detected code in public repositories, not individual commits.</sub></p>
+    </td>
+  </tr>
+</table>
 
 ## ✨ Featured projects
 
@@ -42,21 +62,3 @@ A home for my projects, experiences, and interests, including a few music-inspir
 
 **Next.js · React · Tailwind CSS · JavaScript**  
 [Live site](https://nguyenj1863s-projects.vercel.app/) · [Code](https://github.com/nguyenj1863/john-website)
-
-## 🛠️ Tech I work with
-
-**Languages:** Python, TypeScript, JavaScript, C/C++, Java, SQL  
-**Web & APIs:** React, Next.js, Flask, FastAPI, REST APIs  
-**Data & AI:** PostgreSQL, PyTorch, TensorFlow.js, RAG  
-**Tools:** Git, Docker, Linux, pytest
-
-<details>
-<summary><strong>📊 Curious about my GitHub language breakdown?</strong></summary>
-
-<br/>
-
-<img src="./assets/languages.svg" alt="Language percentages across my public GitHub repositories" width="100%" />
-
-<sub>Based on code in my public, non-fork repositories, not individual commits.</sub>
-
-</details>
