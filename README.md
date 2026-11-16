@@ -1,12 +1,29 @@
-# John Nguyen
+<h1 align="center">John Nguyen</h1>
 
-**Computer Science @ University of Guelph · Software Engineering & Applied AI**
+<p align="center"><strong>Computer Science @ University of Guelph · Software Engineering & Applied AI</strong></p>
+
+<p align="center">
+  <a href="https://nguyenj1863s-projects.vercel.app/">Portfolio</a> ·
+  <a href="https://nguyenj1863s-projects.vercel.app/work">Selected work</a> ·
+  <a href="https://github.com/nguyenj1863">GitHub</a>
+</p>
 
 I'm a fourth-year Computer Science student who enjoys building practical, data-driven software and experimenting with the ways people interact with technology. My work spans full-stack applications, AI systems, and interactive experiences.
 
 Previously, I've worked on AI-powered document workflows at **Karbon Digital** and manufacturing analytics systems at **Kal-Polymers**.
 
-**[Portfolio](https://nguyenj1863s-projects.vercel.app/)** · **[Selected work](https://nguyenj1863s-projects.vercel.app/work)**
+## GitHub snapshot
+
+<p align="center">
+  <a href="https://github.com/nguyenj1863?tab=repositories">
+    <img alt="Language percentages across public repositories" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nguyenj1863&amp;layout=compact&amp;langs_count=8&amp;theme=transparent&amp;hide_border=true" height="200" />
+  </a>
+  <a href="https://github.com/nguyenj1863">
+    <img alt="GitHub activity statistics" src="https://github-readme-stats.vercel.app/api?username=nguyenj1863&amp;show_icons=true&amp;theme=transparent&amp;hide_border=true&amp;rank_icon=github" height="200" />
+  </a>
+</p>
+
+<sub>Language percentages are based on the amount of code in my public, non-fork repositories. They are not a breakdown of my individual commits or contributions to other people's repositories.</sub>
 
 ## Selected work
 
