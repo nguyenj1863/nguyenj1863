@@ -1,4 +1,4 @@
-<h1 align="center">Hey, I'm John! 👋</h1>
+<h1 align="center">Hey, I'm John! :) 👋</h1>
 
 <p align="center">
   <strong>Computer Science @ University of Guelph · Software Engineering & Applied AI</strong>
