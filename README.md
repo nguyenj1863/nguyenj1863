@@ -6,7 +6,8 @@
 
 <p align="center">
   <a href="https://nguyenj1863s-projects.vercel.app/">🌐 Portfolio</a> ·
-  <a href="https://nguyenj1863s-projects.vercel.app/work">Selected Work</a>
+  <a href="https://nguyenj1863s-projects.vercel.app/work">Selected Work</a> ·
+  <a href="https://www.linkedin.com/in/john-nguyen-a778b420b/">💼 LinkedIn</a>
 </p>
 
 <table>
